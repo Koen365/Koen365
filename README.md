@@ -12,7 +12,7 @@ Ik ben Koen, software developer in opleiding in Someren. Ik werk aan webapps, Wi
 | **Nexus** | Filmdashboard met zoeken, genrefilters en filmdetails, gevoed door een n8n-workflow en TMDB. | JavaScript, jQuery AJAX, n8n, REST API |
 | **Game Score Manager** | Spelers, scores en een leaderboard beheren via een consoleapp en REST API. | Python, FastAPI, SQLAlchemy, SQLite |
 
-Luma is online te bekijken. De andere genoemde toepassingen gebruik ik lokaal. Mijn vernieuwde portfolio is momenteel ook lokaal in ontwikkeling.
+**[Bekijk mijn portfolio](https://koen-portfolio.vortex-cr.chatgpt.site/)** voor screenshots, projectdetails en mijn werkwijze. Luma is ook als online demo te bekijken; de andere genoemde toepassingen gebruik ik lokaal.
 
 ## Waar ik mee werk
 
@@ -31,4 +31,4 @@ Ik wil begrijpen wat een toepassing moet oplossen, dat vertalen naar een bruikba
 
 ## Contact
 
-[Stuur me een e-mail](mailto:90847@roc-teraa.nl) · [Bekijk Luma](https://luma-talen.vortex-cr.chatgpt.site/)
+[Bekijk mijn portfolio](https://koen-portfolio.vortex-cr.chatgpt.site/) · [Stuur me een e-mail](mailto:90847@roc-teraa.nl) · [Bekijk Luma](https://luma-talen.vortex-cr.chatgpt.site/)
